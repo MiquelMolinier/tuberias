@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<content>
+    <factura>
+        <Emisor>Telefónica</Emisor>
+        <Receptor>Barbara</Receptor>
+        <ID_FACTURA>17200130</ID_FACTURA>
+        <importe>
+                700
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto A</nombre>
+        <descripcion>Descripción interesante del servicio version 1</descripcion>
+        </producto>
+    </factura>
+    <factura>
+        <Emisor>Claro</Emisor>
+        <Receptor>Jainy</Receptor>
+        <ID_FACTURA>17200200</ID_FACTURA>
+        <importe>
+                300
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto B</nombre>
+        <descripcion>Descripción interesante del servicio version 3</descripcion>
+        </producto>
+    </factura>
+    <factura>
+        <Emisor>Movistar</Emisor>
+        <Receptor>Sylvie</Receptor>
+        <ID_FACTURA>17200129</ID_FACTURA>
+        <importe>
+                200
+        </importe>
+            <producto>
+            <unidades> 3</unidades>
+            <nombre> Producto C</nombre>
+            <descripcion>Descripción interesante del servicio version 2</descripcion>
+        </producto>    
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200151</ID_FACTURA>
+        <Receptor>Vanessa</Receptor>
+        <importe>
+            400
+        </importe>
+        <producto>
+        <unidades> 4</unidades>
+        <nombre> Producto D</nombre>
+        <descripcion>Descripción interesante del servicio version 4</descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200161</ID_FACTURA>
+        <Receptor>Maria</Receptor>
+        <importe>
+            500
+        </importe>
+        <producto>
+        <unidades> 5</unidades>
+        <nombre> Producto E</nombre>
+        <descripcion>Descripción interesante del servicio version 5</descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200141</ID_FACTURA>
+        <Receptor>Desire</Receptor>
+        <importe>
+            600
+        </importe>
+        <producto>
+        <unidades> 6</unidades>
+        <nombre> Producto F</nombre>
+        <descripcion>Descripción interesante del servicio version 6</descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200231</ID_FACTURA>
+        <Receptor>Cristal</Receptor>
+        <importe>
+            1000
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto G</nombre>
+        <descripcion>Descripción interesante del servicio version 7</descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200241</ID_FACTURA>
+        <Receptor>Anya</Receptor>
+        <importe>
+            1020
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto H</nombre>
+        <descripcion>Descripción interesante del servicio version 8</descripcion>
+        </producto> 
+    </factura>
+
+</content>
